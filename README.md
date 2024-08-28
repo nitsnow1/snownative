@@ -1,0 +1,2 @@
+# snownative
+snowflake native test
